@@ -83,7 +83,6 @@ div {
 
 .prev-next-bar {
 	width:402px;
-	height:40px;
 	border:1px solid #C0C0C0;
 	border-radius: 4px;
 	margin-top: 50px;
@@ -98,16 +97,18 @@ div {
 
 .prev-bar {
 	width:100px;
-	border-right:1px solid #C0C0C0;
+
 }
 
 .disp-bar {
 	width:200px;
+	border-left:1px solid #C0C0C0;
+	border-right:1px solid #C0C0C0;
 }
 
 .next-bar {
 	width:100px;
-	border-left:1px solid #C0C0C0;
+
 }
 
 .bar-text {
